@@ -3,7 +3,7 @@ import { X } from 'lucide-react';
 
 const photos = [
   {
-    url: "/photos/TAchild.jpeg",
+    url: "/photos/TAChild.jpeg",
     caption: 'I wish our paths had crossed at this age. Such cuties! 🥹',
     final: { left: '6%', top: '10%' },
     from: 'left',
