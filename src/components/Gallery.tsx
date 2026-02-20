@@ -1,7 +1,7 @@
 import { useEffect, useRef, useState } from 'react';
 import { X } from 'lucide-react';
 
-import TAChild from "../photos/TAChild.jpeg";
+import TAChild from "../photos/TAchild.jpeg";
 import ourTrio from "../photos/ourTrio.jpeg";
 import AR from "../photos/AR.jpeg";
 import ourTrio2 from "../photos/ourTrio2.jpeg";
